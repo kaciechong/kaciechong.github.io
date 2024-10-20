@@ -9,7 +9,9 @@ I'm currently a junior at UC Santa Barbara, pursuing a degree in Statistics and 
 - **Frameworks**: Scikit-learn, TensorFlow, etc.
 
 ## Projects
-Here are some of my projects that showcase my skills:
-
 - [Project Title 1](link-to-your-project)
   - Brief description of the project, technologies used, and what you learned.
+
+## Connect
+- Linkedin: www.linkedin.com/in/kaciechong/
+- Email: kaciechong@gmail.com
