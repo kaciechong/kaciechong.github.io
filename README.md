@@ -9,7 +9,7 @@ I'm currently a junior at UC Santa Barbara, pursuing a degree in Statistics and 
 - **Web Tools**: Web Scraping, JupyterLab/Notebook, Excel, GitHub
 
 ## Projects
-- [Beyond the Halfpipe: Halfpipe Skiing Analysis](link-to-your-project)
+- [Beyond the Halfpipe: Halfpipe Skiing Analysis](https://github.com/kaciechong/BeyondtheHalfpipe)
   - Analyzing the relationship between U.S. halfpipe skiing team athletes' performance, sponsorship trends, social media following, and training locations
   - Used Python for web scraping competition data, FIS rankings, and sponsorship information; cleaned data with Pandas and visualized insights using Matplotlib/Seaborn
     
