@@ -1,0 +1,3 @@
+title: My Jekyll Site
+theme: jekyll-theme-primer
+destination: ./_site
