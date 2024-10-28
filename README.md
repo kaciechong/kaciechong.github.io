@@ -1,7 +1,10 @@
-# [Hey there! I'm Kacie.]
+# Hey there! I'm Kacie. 
 
-## About Me
-I'm currently a junior at UC Santa Barbara, pursuing a degree in Statistics and Data Science. I have a strong passion for data visualization and enjoy approaching problems with a creative mindset to bring data to life.
+## 👋 About Me
+I'm currently a junior at UC Santa Barbara, pursuing a B.S. degree in Statistics and Data Science. I have a strong passion for data visualization and enjoy approaching problems with a creative mindset to bring data to life.
+
+## 📍 Where I'm At Right Now
+I am currently thriving in Scotland, studying abroad at the University of Edinburgh for the semester. Alongside my studies, I am gaining practical experience as a Data Science Intern at The Turing Trust. This organization, established in honor of Alan Turing, is dedicated to refurbishing donated IT equipment and equipping schools, particularly in Malawi, with educational software. I love the opportunity to leverage data analysis techniques to enhance educational access and empower disadvantaged communities through technology. I'm excited to share what I learn when I get back to California next semester!
 
 ## Skills
 - **Languages**: Python (pandas, numpy, scikit-learn, seaborn, matplotlib, scipy, tensorflow, pytorch, keras, scrapy, pyspark, plotly), R, C++, Datawrapper
@@ -10,9 +13,9 @@ I'm currently a junior at UC Santa Barbara, pursuing a degree in Statistics and 
 
 ## Projects
 - [Beyond the Halfpipe: Halfpipe Skiing Analysis](https://github.com/kaciechong/BeyondtheHalfpipe)
-  - Analyzing the relationship between U.S. halfpipe skiing team athletes' performance, sponsorship trends, social media following, and training locations
-  - Used Python for web scraping competition data, FIS rankings, and sponsorship information; cleaned data with Pandas and visualized insights using Matplotlib/Seaborn
+  - Conducted an in-depth analysis of the performance of U.S. halfpipe skiing team athletes, exploring correlations between their results, sponsorship trends,         social media following, and training locations
+  - Used **Python** for data analysis and automation, **pandas** for data manipulation, **numpy** for numerical operations, and **seaborn** + **matplotlib** for       creating data visualization; implemented **selenium** for web scraping and browser automation, managed web drivers with **webdriver-manager**, and used             **beautifulsoup4** for parsing HTML and XML documents
     
-## Connect
-- Linkedin: www.linkedin.com/in/kaciechong/
+## 📧 Connect
+- Linkedin: [www.linkedin.com/in/kaciechong/](www.linkedin.com/in/kaciechong/)
 - Email: kaciechong@gmail.com
