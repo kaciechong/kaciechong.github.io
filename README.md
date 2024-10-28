@@ -9,10 +9,14 @@ I'm currently studying abroad at the University of Edinburgh and gaining practic
 ## Projects
 - [Beyond the Halfpipe: Halfpipe Skiing Analysis](https://github.com/kaciechong/BeyondtheHalfpipe)
     - Conducted an in-depth analysis of the performance of U.S. halfpipe skiing team athletes, exploring correlations between their results,           sponsorship trends, social media following, and training locations
- 
+
+## Publications
+- [From checkups to coverage: Understanding UCSB’s healthcare landscape](https://dailynexus.com/2024-01-18/from-checkups-to-coverage-understanding-ucsbs-healthcare-landscape/)
+- [Unveiling the climate crisis in Santa Barbara](https://dailynexus.com/2024-04-11/unveiling-the-climate-crisis-in-santa-barbara/)
+  
 ## Data Science Experience
-- **Data Science Intern @ The Turing Trust**
-- **Data Analyst Editor @ The Daily Nexus**
+- Data Science Intern @ The Turing Trust
+- Data Analyst Editor @ The Daily Nexus
     
 ## Skills
 - **Programming Languages**: Python, R, C++
@@ -22,4 +26,4 @@ I'm currently studying abroad at the University of Edinburgh and gaining practic
 
 ## 📧 Connect
 - Linkedin: [www.linkedin.com/in/kaciechong/](www.linkedin.com/in/kaciechong/)
-- Email: kaciechong@gmail.com
+- Email: [kaciechong@gmail.com](kaciechong@gmail.com)
