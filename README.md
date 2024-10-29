@@ -9,7 +9,7 @@ I'm currently studying abroad at the University of Edinburgh and gaining practic
 ## Projects
 - [Beyond the Halfpipe: Halfpipe Skiing Analysis](https://github.com/kaciechong/BeyondtheHalfpipe)
     - Conducted an in-depth analysis of the performance of U.S. halfpipe skiing team athletes, exploring correlations between their results, sponsorship trends,         social media following, and training locations
-  - [The Turing Trust Data Analysis Project](https://github.com/kaciechong/TuringTrust)
+- [The Turing Trust Data Analysis Project](https://github.com/kaciechong/TuringTrust)
     - Developed MongoDB queries to analyze 2,000+ hardware erasure reports, creating an automated system to assess IT equipment and enhance refurbishment                processes.
 
 ## Publications
