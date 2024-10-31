@@ -24,7 +24,7 @@ I'm currently studying abroad at the University of Edinburgh and gaining data sc
 - **Programming Languages**: Python, R, C++
 - **Libraries**: pandas, NumPy, SciPy, scikit-learn, TensorFlow, PyTorch, Keras, Seaborn, Matplotlib, Plotly, Scrapy, Selenium, BeautifulSoup,                    WebDriver Manager
 - **Databases**: SQL (PostgreSQL, MySQL, SQL Server), MongoDB (NoSQL)
-- **Misc.**: Web Scraping, Datawrapper, JupyterLab/Notebook, Excel, GitHub
+- **Other**: Web Scraping, Datawrapper, JupyterLab/Notebook, Excel, GitHub
 
 ## 📧 Connect
 - Linkedin: [www.linkedin.com/in/kaciechong/](www.linkedin.com/in/kaciechong/)
