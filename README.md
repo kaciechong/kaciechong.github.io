@@ -13,8 +13,8 @@ I'm currently studying abroad at the University of Edinburgh and gaining data sc
     - Developed MongoDB queries analyzing 20,000+ hardware erasure reports to seek methods to optimize erasure processes
       
 ## Publications
-- [From checkups to coverage: Understanding UCSB’s healthcare landscape](https://dailynexus.com/2024-01-18/from-checkups-to-coverage-understanding-ucsbs-healthcare-landscape/)
-- [Unveiling the climate crisis in Santa Barbara](https://dailynexus.com/2024-04-11/unveiling-the-climate-crisis-in-santa-barbara/)
+- ['From checkups to coverage: Understanding UCSB’s healthcare landscape'](https://dailynexus.com/2024-01-18/from-checkups-to-coverage-understanding-ucsbs-healthcare-landscape/)
+- ['Unveiling the climate crisis in Santa Barbara'](https://dailynexus.com/2024-04-11/unveiling-the-climate-crisis-in-santa-barbara/)
   
 ## Data Science Experience
 - Data Science Intern @ The Turing Trust
