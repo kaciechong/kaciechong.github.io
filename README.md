@@ -4,7 +4,7 @@
 I'm a junior at UC Santa Barbara, pursuing a B.S. degree in Statistics and Data Science. I have a strong passion for data visualization and enjoy approaching problems with a creative mindset to bring data to life.
 
 ## 📍 Where I'm At Right Now
-I'm currently studying abroad at the University of Edinburgh and gaining data science experience as an intern at The Turing Trust. This organization refurbishes donated IT equipment and provides educational software to schools, particularly in Malawi. I’m passionate about leveraging data analysis to increase educational access to those in third-world countries.
+I just returned to UCSB after studying abroad at the University of Edinburgh, where I gained data science experience as an intern at The Turing Trust. This organization refurbishes donated IT equipment and provides educational software to schools, particularly in Malawi. I’m passionate about leveraging data analysis to increase educational access to those in third-world countries.
 
 ## Projects
 - [Beyond the Halfpipe: Halfpipe Skiing Analysis](https://github.com/kaciechong/BeyondtheHalfpipe)
