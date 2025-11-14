@@ -6,9 +6,9 @@ I’m currently wrapping up my B.S. in Statistics & Data Science at UCSB – Go 
 ## 💼 Relevant Experience 
 - **Data Experimentation Intern @ The Walt Disney Company**
 - **Data Science Intern @ The Turing Trust**<br>
-  *[Project Link](https://github.com/kaciechong/TuringTrust)
+  [Project Link](https://github.com/kaciechong/TuringTrust)
 - **Data & Analytics Project Member @ Gaucho Sports Analytics**<br>
-  *Project Link](https://pitch-seq-ntyz6qtw5idnltmgm7rkbq.streamlit.app/)
+  [Project Link](https://pitch-seq-ntyz6qtw5idnltmgm7rkbq.streamlit.app/)
 - **Data Analyst Editor @ The Daily Nexus**
 
 ## 🔬 Research Projects 
