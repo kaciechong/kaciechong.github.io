@@ -1,11 +1,11 @@
-# Hey there! I'm Kacie. 
+# Hey there! I'm Kacie.👋 
 
 ## A Little About Me
 I’m currently wrapping up my B.S. in Statistics & Data Science at UCSB – Go Gauchos! I’m also part of the top 7% of students selected for the Honors Program, where I’ve built a solid toolkit in computational modeling, programming, and statistical reasoning. 
 
 I’ve hopped between sunny Los Angeles and rainy Scotland for internships: first as a Data Science Intern at The Turing Trust, then as a Data Analytics Experimentation Intern at The Walt Disney Company. From the entertainment industry to international charity work, and from the U.S. to the U.K., I witnessed statistics drive observable improvements, cementing my love for blending statistical theory with practical application.
 
-Back on campus, I’ve been a **project member** of the Gaucho Sports Analytics Club, where I built a Stuff+ metric to evaluate pitch quality for the UCSB baseball team. I also currently serve as a **Data Analyst News Editor** for our award-winning student newspaper, using data to make sense of what’s happening around UCSB.
+Back on campus, I’ve been a project member of the Gaucho Sports Analytics Club, where I built a Stuff+ metric to evaluate pitch quality for the UCSB baseball team. I also currently serve as a Data Analyst News Editor for our award-winning student newspaper, using data to make sense of what’s happening around UCSB.
 
 ## Relevant Experience
 - Data Analytics Experimentation Intern @ The Walt Disney Company
