@@ -8,12 +8,10 @@ I’ve hopped between sunny Los Angeles and rainy Scotland for internships: firs
 Back on campus, I’ve been a project member of the Gaucho Sports Analytics Club, where I built a Stuff+ metric to evaluate pitch quality for the UCSB baseball team. I also currently serve as a Data Analyst News Editor for our award-winning student newspaper, using data to make sense of what’s happening around UCSB.
 
 ## Relevant Experience
-- Data Analytics Experimentation Intern @ The Walt Disney Company
-- Data Science Intern @ The Turing Trust
-  - [Project Link](https://github.com/kaciechong/TuringTrust)
-- Data & Analytics Project Member @ Gaucho Sports Analytics (UCSB Baseball)
-   - [Project Link](https://pitch-seq-ntyz6qtw5idnltmgm7rkbq.streamlit.app/)
-- Data Analyst Editor @ The Daily Nexus
+- **Data Analytics Experimentation Intern @ The Walt Disney Company**
+- **Data Science Intern @ The Turing Trust** [Project Link](https://github.com/kaciechong/TuringTrust)
+- **Data & Analytics Project Member @ Gaucho Sports Analytics (UCSB Baseball)** [Project Link](https://pitch-seq-ntyz6qtw5idnltmgm7rkbq.streamlit.app/)
+- **Data Analyst Editor @ The Daily Nexus**
 
 ## Research Analyses
 - [Bayesian Linear Regression Simulation & Analysis](https://github.com/kaciechong/Bayesian-Linear-Regression-Simulation-Analysis/tree/main)
